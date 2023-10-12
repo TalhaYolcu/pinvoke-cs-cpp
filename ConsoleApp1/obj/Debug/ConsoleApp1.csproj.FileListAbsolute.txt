@@ -1,0 +1,3 @@
+C:\Users\Bursiyer\Desktop\VSProjects\HelloWorld\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Bursiyer\Desktop\VSProjects\HelloWorld\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Bursiyer\Desktop\VSProjects\HelloWorld\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
